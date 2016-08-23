@@ -1,0 +1,14 @@
+{
+	"appname": "Demo for Mindgruve",
+	"scope": "FullAccess",
+	"clientid": "E9E3662A-289A-497A-AC0E-6548AD0C8173",
+	"buyerid": "Cambria",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
